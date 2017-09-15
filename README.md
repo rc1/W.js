@@ -1,5 +1,7 @@
 # W.js
 
+![](https://user-images.githubusercontent.com/166915/30487844-88b5216e-9a2c-11e7-8919-7e4e9556feee.png)
+
 A snippets repository and welterweight library used by [The Workers](http://theworkers.net) maintained by [Ross Cairns](http://rosscairns.com/). [The Workers](http://theworkers.net) are a creative coding studio in East London.
 
 ![](https://img.shields.io/npm/v/w-js.svg?style=flat)
